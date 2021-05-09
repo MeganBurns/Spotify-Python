@@ -4,7 +4,7 @@ uris = []
 
 
 endpoint_url = "https://api.spotify.com/v1/recommendations?"
-access_token = "BQD1bPwc0X6dtooVuii-V278iyEE1h9Htv7vi-YMGewJIgjjtUn0K6L161CFBf_IUbmdN2BDbcxrVtEI-9QAAv16lJLyMhSISxBS-XPTA-iRqYSx6O4ecvsYSNv-RG8JqkZ84tAH-BIiGYKW7gfxYB4f_KPte7YWgqGh1NTIsCD8"
+access_token = ""
 
 #Filters:
 limit = 15
